@@ -125,6 +125,8 @@ $$
 &= 96 + 168i
 \end{aligned}
 $$
+
+
 ---
 
 ## 3. División de Números Complejos
