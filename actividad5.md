@@ -293,5 +293,7 @@ $$
 $$
   
 ![](./raices67.png)
+
 ![](./raices69.png)
+
 ![](./raices70.png)
