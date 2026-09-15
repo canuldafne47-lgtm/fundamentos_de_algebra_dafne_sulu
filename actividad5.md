@@ -256,4 +256,4 @@ $$
 -7i = 7(\cos(270^\circ) + i\sin(270^\circ))
 $$
 
-![](./test.pnj)
+![](./test.png)
