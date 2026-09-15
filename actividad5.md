@@ -8,7 +8,7 @@
 
 ---
 ### 19
-![Imagen del ejercicio 19](https://github.com/user-attachments/assets/36161c00-3e6a-4a7a-8508-e7d778aa2723)
+![](./tablas.png)
 ### Ejercicio 25: $(-7 - 4i) - (2 + i)$
 $$
 \begin{aligned}
@@ -255,6 +255,9 @@ $$
 $$
 -7i = 7(\cos(270^\circ) + i\sin(270^\circ))
 $$
+---
+
+### Conversiones a forma rectangular
 
 ### Ejercicio 61: $\cos 30^\circ + i\sin 30^\circ$
 
@@ -294,6 +297,6 @@ $$
 
  ### Raíces de números complejos
  
-![](./raices67.jpeg)
+![](./raices67.png)
 ![](./raices69.png)
-![](./raices70.jpeg)
+![](./raices70.png)
