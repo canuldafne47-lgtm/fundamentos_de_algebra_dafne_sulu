@@ -256,4 +256,40 @@ $$
 -7i = 7(\cos(270^\circ) + i\sin(270^\circ))
 $$
 
+### Ejercicio 61: $\cos 30^\circ + i\sin 30^\circ$
+
+$$
+\cos 30^\circ + i\sin 30^\circ = \frac{\sqrt{3}}{2} + \frac{1}{2}i
+$$
+
+### Ejercicio 62: $2(\cos 60^\circ + i\sin 60^\circ)$
+
+$$
+2(\cos 60^\circ + i\sin 60^\circ) = 1 + \sqrt{3}i
+$$
+
+### Ejercicio 63: $1.5(\cos 90^\circ + i\sin 90^\circ)$
+
+$$
+1.5(\cos 90^\circ + i\sin 90^\circ) = 1.5i
+$$
+
+### Ejercicio 64: $2.5(\cos 120^\circ + i\sin 120^\circ)$
+
+$$
+2.5(\cos 120^\circ + i\sin 120^\circ) = -1.25 + \frac{5\sqrt{3}}{4}i
+$$
+
+### Ejercicio 65: $4(\cos 135^\circ + i\sin 135^\circ)$
+
+$$
+4(\cos 135^\circ + i\sin 135^\circ) = -2\sqrt{2} + 2\sqrt{2}i
+$$
+
+### Ejercicio 66: $3(\cos 180^\circ + i\sin 180^\circ)$
+
+$$
+3(\cos 180^\circ + i\sin 180^\circ) = -3
+$$
+  
 ![](./test.png)
