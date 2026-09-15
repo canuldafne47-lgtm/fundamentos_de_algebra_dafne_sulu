@@ -292,4 +292,6 @@ $$
 3(\cos 180^\circ + i\sin 180^\circ) = -3
 $$
   
-![](./test.png)
+![](./raices67.png)
+![](./raices69.png)
+![](./raices70.png)
