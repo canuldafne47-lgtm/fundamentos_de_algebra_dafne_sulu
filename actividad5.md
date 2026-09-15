@@ -154,9 +154,11 @@ $$
 \frac{-10 + 8i}{6 + i} = -\frac{52}{37} + \frac{58}{37}i
 $$
 ### Ejercicio 42: $\frac{2 - 2i}{4 - 10i}$
+
 $$
 \frac{2 - 2i}{4 - 10i} = \frac{7}{29} - \frac{3}{29}i
 $$
+
 ---
 
 ## 4. Valor Absoluto (Módulo) de un Número Complejo
@@ -213,4 +215,43 @@ $$
 ### Ejercicio 54: $i^{5^5}$
 $$
 i^{5^5} = i^{3125} = (i^4)^{781} \cdot i = (1)^{781} \cdot i = i
+$$
+
+---
+## 6 Conversiones a su forma polar
+
+### Ejercicio 55: $6 - 8i$
+
+$$
+6 - 8i = 10(\cos(-53.13^\circ) + i\sin(-53.13^\circ))
+$$
+
+### Ejercicio 56: $5\sqrt{2} + 5\sqrt{2}i$
+
+$$
+5\sqrt{2} + 5\sqrt{2}i = 10(\cos(45^\circ) + i\sin(45^\circ))
+$$
+
+### Ejercicio 57: $2 - 2\sqrt{3}i$
+
+$$
+2 - 2\sqrt{3}i = 4(\cos(-60^\circ) + i\sin(-60^\circ))
+$$
+
+### Ejercicio 58: $\frac{3\sqrt{3}}{2} - \frac{3}{2}i$
+
+$$
+\frac{3\sqrt{3}}{2} - \frac{3}{2}i = 3(\cos(-30^\circ) + i\sin(-30^\circ))
+$$
+
+### Ejercicio 59: $-2$
+
+$$
+-2 = 2(\cos(180^\circ) + i\sin(180^\circ))
+$$
+
+### Ejercicio 60: $-7i$
+
+$$
+-7i = 7(\cos(270^\circ) + i\sin(270^\circ))
 $$
