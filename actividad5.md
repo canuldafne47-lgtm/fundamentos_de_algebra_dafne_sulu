@@ -293,7 +293,5 @@ $$
 $$
   
 ![](./raices67.jpeg)
-
 ![](./raices69.jpeg)
-
 ![](./raices70.jpeg)
