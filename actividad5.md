@@ -291,7 +291,9 @@ $$
 $$
 3(\cos 180^\circ + i\sin 180^\circ) = -3
 $$
-  
+
+ ### Raíces de números complejos
+ 
 ![](./raices67.jpeg)
 ![](./raices69.png)
 ![](./raices70.jpeg)
