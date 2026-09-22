@@ -339,3 +339,66 @@ $$
  100) F0A5 = 1111 0000 1010 0101
 101) 0F0F = 0000 1111 0000 1111
 102) 8001 = 1000 0000 0000 0001
+
+## Nombra los polinomios por su exponente más alto y número de términos
+
+103. $5n + 5$
+   - **Grado:** Lineal (primer grado)
+   - **Número de términos:** Binomio
+
+104. $-10p^3 - 6 + 9p^2 - 4p^5 - 2p^8$
+   - **Grado:** De octavo grado
+   - **Número de términos:** Polinomio (5 términos)
+
+105. $7x^8$
+   - **Grado:** De octavo grado
+   - **Número de términos:** Monomio
+
+106. $-2n + n^4 + 10n^6$
+   - **Grado:** De sexto grado
+   - **Número de términos:** Trinomio
+
+107. $5$
+   - **Grado:** Constante (grado cero)
+   - **Número de términos:** Monomio
+
+108. $5v^7$
+   - **Grado:** De séptimo grado
+   - **Número de términos:** Monomio
+
+---
+
+## Resuelve las siguientes preguntas
+
+109. Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y solo tomó 3.08 horas. Encuentra cuánto le tomaría a Jill hacerlo sola.
+   - **Respuesta:** Aproximadamente **5.01 horas** (5 horas y 45 segundos)
+   - **Procedimiento:**
+     $$\frac{1}{8} + \frac{1}{x} = \frac{1}{3.08} \implies \frac{1}{x} = \frac{1}{3.08} - \frac{1}{8} \implies x \approx 5.0081\text{ h}$$
+
+110. Jaidee puede cavar un hoyo de 10 pies por 10 pies en cinco horas. Ted puede cavar el mismo hoyo en siete horas. Si trabajaran juntos, ¿cuánto tiempo les tomaría?
+   - **Respuesta:** **2.92 horas** (2 horas y 55 minutos)
+   - **Procedimiento:**
+     $$\frac{1}{5} + \frac{1}{7} = \frac{12}{35} \implies t = \frac{35}{12} \approx 2.9167\text{ h}$$
+
+111. Un avión de carga salió de Los Ángeles y voló hacia Moscú. Un avión de la Fuerza Aérea salió cuatro horas después volando a 310 km/h en un esfuerzo por alcanzar al avión de carga. Después de volar durante seis horas, el avión de la Fuerza Aérea finalmente lo alcanzó. ¿Cuál era la velocidad promedio del avión de carga?
+   - **Respuesta:** **186 km/h**
+   - **Procedimiento:**
+     $$\text{Distancia} = 310\text{ km/h} \times 6\text{ h} = 1860\text{ km}$$
+     $$\text{Tiempo del avión de carga} = 6 + 4 = 10\text{ h}$$
+     $$\text{Velocidad} = \frac{1860\text{ km}}{10\text{ h}} = 186\text{ km/h}$$
+
+112. Un tren de carga viajó a Nueva York y de regreso. En el viaje de ida viajó a 35 km/h y en el viaje de regreso fue a 49 km/h. ¿Cuánto tiempo tomó el viaje de ida si el viaje de regreso tomó diez horas?
+   - **Respuesta:** **14 horas**
+   - **Procedimiento:**
+     $$\text{Distancia de regreso} = 49\text{ km/h} \times 10\text{ h} = 490\text{ km}$$
+     $$\text{Tiempo de ida} = \frac{490\text{ km}}{35\text{ km/h}} = 14\text{ h}$$
+
+113. $1\text{ yd}^3$ de tierra que contenía 30% de arena se mezcló con $4\text{ yd}^3$ de tierra que contenía 20% de arena. ¿Cuál es el contenido de arena de la mezcla?
+   - **Respuesta:** **22%**
+   - **Procedimiento:**
+     $$\frac{(1 \times 0.30) + (4 \times 0.20)}{1 + 4} = \frac{0.30 + 0.80}{5} = \frac{1.10}{5} = 0.22 \implies 22\%$$
+
+114. Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la Marca B. La Marca A contiene 11% de jugo de fruta y la Marca B contiene 24% de jugo de fruta. ¿Qué porcentaje de la mezcla es jugo de fruta?
+   - **Respuesta:** Aproximadamente **17%** (17.00%)
+   - **Procedimiento:**
+     $$\frac{(7 \times 0.11) + (6 \times 0.24)}{7 + 6} = \frac{0.77 + 1.44}{13} = \frac{2.21}{13} = 0.17 \implies 17\%$$
